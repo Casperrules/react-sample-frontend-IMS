@@ -1,0 +1,14 @@
+.login{
+    display: flex;
+}
+
+.sidebar{
+    flex: 1;
+
+}
+.content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex: 1;
+}
