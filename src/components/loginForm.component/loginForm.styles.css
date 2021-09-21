@@ -1,0 +1,38 @@
+h2{
+    font-size: 4rem;
+    color: #fff;
+}
+.card{
+    display: flex;
+    border-radius: 3%;
+    padding: 3rem 7rem;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #236cff71;
+}
+
+.input{
+    height: 1rem;
+    border-radius: 3px;
+    padding: 0.5rem;
+    font-size: 1.3rem;
+    margin: 0.8rem 0;
+    border: none;
+    width: 20rem;
+    height: 1.5rem;
+}
+.form-button{
+    margin-top: 2rem;
+    padding: .5rem 1rem;
+    width: 21rem;
+    border-radius: 10px;
+    border: 1px solid;
+    font-size: 1.6rem;
+    color: #fff;
+    background-color: #0a54e7e7;
+}
+.form-button:hover{
+    background-color: #145ef1e0;
+    cursor: pointer;
+}
